@@ -1,0 +1,4 @@
+Numero1:1
+3:2
+BRAND:1
+MAGI:1
